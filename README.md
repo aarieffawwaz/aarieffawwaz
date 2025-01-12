@@ -1,9 +1,9 @@
 ## Welcome to Aarief's Github Page 👋
 
-- 🏫 3rd Year Computer Engineering Student at BINUS University
+- 🏫 3rd Year Computer Engineering Student at BINUS University.
 - 🌱 Passionate in IoT, Artificial Intelligence/Machine Learning, PLC, Information Technology, Cyber Security, Computer Network and Cross Platform Development.
-- 🤔 I’m looking for intership for my 6th and 7th Semester
-- 💬 Collaborate with me in developing IoT 
+- 🤔 I’m actively looking for intership for my 6th and 7th Semester.
+- 💬 Collaborate with me in developing technology for a better future!
 - 📫 Email me at: aarieffawwaz@gmail.com
 - 🧵 Connect to my Linkedin: [linkedin.com/in/aarieffawwazsatriahutama/]([url](https://www.linkedin.com/in/aarieffawwazsatriahutama/))
 
