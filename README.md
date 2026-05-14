@@ -28,7 +28,7 @@ I am a Technical Product Strategist bridging the gap between IoT hardware, scala
 * **Ask me about:** Web3 development, Product Strategy, or Full Stack Engineering (Software and Hardware).
 * **Email:** [aarieffawwaz@gmail.com](mailto:aarieffawwaz@gmail.com)
 * **LinkedIn:** [linkedin.com/in/aarieffawwazsatriahutama/](https://linkedin.com/in/aarieffawwazsatriahutama/)
-* **Portfolio:** [aarief-fawwaz.vercel.app](https://aarief-fawwaz.vercel.app)
+* **Website:** [aarief-fawwaz.vercel.app](https://aarief-fawwaz.vercel.app)
 
 ---
 *"Building the decentralized and automated future, one scalable solution at a time."*
