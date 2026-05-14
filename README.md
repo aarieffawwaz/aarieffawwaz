@@ -1,6 +1,6 @@
-# Welcome to Aarief's Portfolio 👋
+# Welcome to Aarief's Github 👋
 
-**Computer Engineering @ BINUS University | Developer & Product @ Apple Developer Academy**
+**Software & Product Engineer @ Apple Developer Academy**
 
 I am a Technical Product Strategist bridging the gap between IoT hardware, scalable software, and decentralized systems. Currently architecting mobile solutions at the Apple Developer Academy while exploring the intersection of Web3 and traditional finance.
 
